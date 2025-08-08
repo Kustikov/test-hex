@@ -7,3 +7,4 @@ if capitalize("") != "":
     raise Exception("Функция работает неверно!")
 
 print("Все тесты пройдены!")
+print("Ура")
